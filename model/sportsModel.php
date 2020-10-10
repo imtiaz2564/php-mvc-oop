@@ -28,6 +28,8 @@
 		// insert record
 		public function insertRecord($obj)
 		{
+			// print_r($obj);
+			// die();
 			try
 			{	
 				$this->open_db();
