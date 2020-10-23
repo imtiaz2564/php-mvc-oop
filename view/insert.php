@@ -37,7 +37,7 @@
                             <span class="help-block"><?php echo $sporttb->name_msg;?></span>
                         </div>
                         <input type="submit" name="addbtn" class="btn btn-primary" value="Submit">
-                        <a href="../index.php" class="btn btn-default">Cancel</a>
+                        <a href="../index.php?act=list" class="btn btn-default">Cancel</a>
                     </form>
                 </div>
             </div>        

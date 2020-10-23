@@ -1,4 +1,5 @@
 <?php
+namespace DatabaseConfig;
 
 class database  
 {	
